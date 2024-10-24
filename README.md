@@ -1,8 +1,18 @@
-# React + Vite
+# React + Vite + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Despliegue en Vercel: https://edm-prueba-tecnica.vercel.app/
 
-Currently, two official plugins are available:
+Para ejecutar el proyecto de manera local, es necesario seguir los siguientes pasos:
+Clonar el repositorio desde el enlace proporcionado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## git clone https://github.com/ALDEV03/edm-prueba-tecnica.git
+
+Instalar las dependencias con el comando:
+
+## npm install
+
+Ejecutar un servidor local para visualizar la aplicación. Puede hacerlo con:
+
+## npm run dev
+
+o cualquier otro servidor local de su preferencia.
