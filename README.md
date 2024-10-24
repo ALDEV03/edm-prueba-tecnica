@@ -15,4 +15,13 @@ Ejecutar un servidor local para visualizar la aplicación. Puede hacerlo con:
 
 ### npm run dev
 
-o cualquier otro servidor local de su preferencia.
+o
+
+### npm run build
+
+Esto nos permitira crear el dist que luego usando el comando :
+
+### npm run preview
+
+Nos permitira tener una vista previa del proyecto despues de compilarlo el dist puede ser montado con
+cualquier otro servidor local de su preferencia.
